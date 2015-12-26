@@ -1,0 +1,28 @@
+name: GarysTestSite
+favicon: null
+layout_spectrum: 0.20372924022376537
+typography_spectrum: 0.659419456962496
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.42959417682141066
+  lightness: 0.911788476165384
+  saturation: 0.9602612138260156
+  rhythmicContrast: 0.9180777727160603
+purpose: []
